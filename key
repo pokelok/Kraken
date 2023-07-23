@@ -8758,15 +8758,15 @@ spawn(function()
     end)
 
 game.StarterGui:SetCore("SendNotification", {
-      Icon = "http://www.roblox.com/asset/?id=12523036534";
-      Title = "Domadic Hub", 
-      Text = "Welcome To Script!!"
+      Icon = "http://www.roblox.com/asset/?id=13988459332";
+      Title = "Kraken Hub", 
+      Text = "Bem vindo ao Script!!"
   })
 
 game.StarterGui:SetCore("SendNotification", {
-      Icon = "http://www.roblox.com/asset/?id=12523036534";
-      Title = "Domadic Hub", 
-      Text = "made by มีดร้ายเเรง🔪🔪#6356"
+      Icon = "http://www.roblox.com/asset/?id=13988459332";
+      Title = "Kraken Hub", 
+      Text = "Criado por Pokelok br🏴‍☠️🔱 "
   })
   
 	_G.FastAttackNormalSpeed = true
